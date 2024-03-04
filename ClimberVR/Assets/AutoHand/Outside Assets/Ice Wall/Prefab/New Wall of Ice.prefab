@@ -150,7 +150,7 @@ MonoBehaviour:
   body: {fileID: 190232775459166454}
   grabbable: {fileID: 0}
   stabIndex: 0
-  maxStabbers: 1
+  maxStabbers: 4
   positionDamper: 1000
   rotationDamper: 1000
   parentOnStab: 1
