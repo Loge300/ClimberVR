@@ -2790,6 +2790,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ice Block
       objectReference: {fileID: 0}
+    - target: {fileID: 3171827808760339654, guid: 5140b5f39b6973c4ca62e1733fbc035a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.7944
+      objectReference: {fileID: 0}
+    - target: {fileID: 3171827808760339654, guid: 5140b5f39b6973c4ca62e1733fbc035a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.7944
+      objectReference: {fileID: 0}
+    - target: {fileID: 3171827808760339654, guid: 5140b5f39b6973c4ca62e1733fbc035a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.7944
+      objectReference: {fileID: 0}
     - target: {fileID: 6338854800179790045, guid: 5140b5f39b6973c4ca62e1733fbc035a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.022605762
