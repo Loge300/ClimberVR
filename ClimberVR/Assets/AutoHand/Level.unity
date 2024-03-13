@@ -2446,7 +2446,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collisionTriggers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 567
   source: {fileID: 1111678132}
   clip: {fileID: 8300000, guid: c84ac7dddc3097b46be2ed3fc7016c7a, type: 3}
   velocityVolumeCurve:
@@ -2473,7 +2473,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  volumeAmp: 0.8
+  volumeAmp: 20
   velocityAmp: 0.5
   soundRepeatDelay: 0.2
 --- !u!82 &1111678132
@@ -2944,7 +2944,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collisionTriggers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 567
   source: {fileID: 1145499612}
   clip: {fileID: 8300000, guid: c84ac7dddc3097b46be2ed3fc7016c7a, type: 3}
   velocityVolumeCurve:
@@ -2971,7 +2971,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  volumeAmp: 0.8
+  volumeAmp: 20
   velocityAmp: 0.5
   soundRepeatDelay: 0.2
 --- !u!82 &1145499612
